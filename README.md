@@ -9,8 +9,19 @@ proyectos y mis intereses.
 * Nombre: [Fernando Alvarez]
 * Ocupación: [Estudiante de Ingenieria en Ciencias de la Computacion]
 * Lugar de residencia: [Guayaquil, Ecuador]
-* Sitio web: [Tu sitio web]
+* Sitio web: [https://github.com/mfalvarezd/curriculum]
 ## Proyectos
-* [Lista de tus proyectos]
+* [https://github.com/mfalvarezd/ConcesionariaDeAutos]
+* [https://github.com/mfalvarezd/GaleriaDeFotos]
+* [https://github.com/mfalvarezd/Contactos]
+* [https://github.com/mfalvarezd/landing]
+* [https://github.com/mfalvarezd/dashboard]
 ## Intereses
-* [Lista de tus intereses]
+* Estudiar nuevas tecnologias
+* Aprender constantemente para no quedarme atras
+* JS
+* JAVA
+* C#/C++
+* PYTHON
+* HTML & CSS
+* REACT
